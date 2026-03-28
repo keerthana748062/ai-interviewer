@@ -1,0 +1,81 @@
+{
+  "fc199b4b-2a16-4039-9134-c6ddb406b08f": {
+    "questions": [
+      "Can you explain that in more detail?"
+    ],
+    "answers": [
+      "This is my test answer",
+      "This is my test answer"
+    ],
+    "currentQuestion": 0,
+    "completed": false
+  },
+  "b70bc1a0-36ab-4560-8f87-683fd69ece9f": {
+    "questions": [
+      "Can you explain that in more detail?",
+      "Can you explain that in more detail?",
+      "Can you explain that in more detail?",
+      "Can you explain that in more detail?",
+      "Can you explain that in more detail?"
+    ],
+    "answers": [
+      "Speaking status",
+      "Speaking my name isHave done",
+      "I sold can you explain",
+      "You exp",
+      "Can you explain that in",
+      "Hello"
+    ],
+    "currentQuestion": 4,
+    "completed": true
+  },
+  "e6588682-2c55-497f-9285-efa55daf222f": {
+    "questions": [
+      "Can you explain that in more detail?"
+    ],
+    "answers": [],
+    "currentQuestion": 0,
+    "completed": false
+  },
+  "cdb64527-51b2-46a2-b309-21d5418336d2": {
+    "questions": [
+      "Can you explain that in more detail?"
+    ],
+    "answers": [],
+    "currentQuestion": 0,
+    "completed": false
+  },
+  "05982a5f-4280-4416-b7c7-d82707779f6f": {
+    "domain": "Frontend",
+    "candidateName": "Candidate",
+    "currentQuestionIndex": 0,
+    "questions": [
+      "Explain the Virtual DOM in React.",
+      "What are the differences between let, const, and var?",
+      "How do you handle state management in a large React application?"
+    ],
+    "answers": [],
+    "startedAt": "2026-03-28T05:38:25.385Z"
+  },
+  "c4011739-4ea0-407a-984e-f281e853245d": {
+    "domain": "Frontend",
+    "candidateName": "Candidate",
+    "currentQuestionIndex": 2,
+    "questions": [
+      "Explain the Virtual DOM in React.",
+      "What are the differences between let, const, and var?",
+      "How do you handle state management in a large React application?"
+    ],
+    "answers": [
+      {
+        "questionIndex": 0,
+        "answer": "hello"
+      },
+      {
+        "questionIndex": 1,
+        "answer": "hello"
+      }
+    ],
+    "startedAt": "2026-03-28T05:48:39.597Z"
+  }
+}
